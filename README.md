@@ -17,7 +17,7 @@ C command-line encrypt and decrypt a message using Vigenere method.
 - Compile the programme using the following command line: gcc vigenere_decodage.c requiremments.h decodage.c -o cesar_decodage
 - Execute the programme using the following command line: ./vigenere_codage decrypted_message.txt encrypted_message.txt
 
-## arguments explaination
+## Arguments explaination
 
 - decrypted_message.txt is your decrypted message
 - encrypted_message.txt  is your encrypted message
